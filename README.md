@@ -1,3 +1,3 @@
 # twineImages
 
-iamges for my twine
+images for my twine game
